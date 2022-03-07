@@ -1,0 +1,50 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-image: url(background.png);
+    position: relative;
+}
+
+.x {
+    display: flex;
+    margin-left: 80%;
+    list-style: none;
+    gap: 10px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+h1 {
+    margin-top: 15%;
+}
+
+h1:hover {
+    color: green;
+}
+
+button {
+    border-radius: 10px;
+    font-size: medium;
+}
+
+button:hover {
+    color: red;
+    background-color: aqua;
+}
+
+u {
+    color: blue;
+}
+
+.y {
+    display: flex;
+    margin-left: 86%;
+    list-style: none;
+    gap: 10px;
+    margin-top: 21%;
+    font-weight: bold;
+    font-size: 16px;
+}
